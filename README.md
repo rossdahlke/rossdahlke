@@ -12,5 +12,5 @@ I apply data science and computational techniques to better understand the conne
 - [The Math Behind Deep Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 - [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 
-📖 Substantively, I'm studying:
+📚 Substantively, I'm studying:
 - (Waiting for classes!)
