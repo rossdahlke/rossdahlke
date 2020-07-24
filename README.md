@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Ross. I am a PhD Student at Stanford and recovering data scientist from the digital marketing industry. 
+I'm Ross, a[n incoming] PhD Student at Stanford and recovering data scientist from the digital marketing industry. 
 
 I apply data science and computational techniques to better understand the connections between our online lives and offline behaviors. 
 
