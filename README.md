@@ -15,4 +15,4 @@ I apply data science and computational techniques to better understand the conne
 📚 Substantively, I'm studying:
 - (Waiting for classes!)
 
-![Ross' github stats](https://github-readme-stats.vercel.app/api?username=rossdahlkea&count_private=true)
+![Ross' github stats](https://github-readme-stats.vercel.app/api?username=rossdahlke&count_private=true)
