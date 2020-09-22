@@ -1,19 +1,18 @@
 ### Hi!
 
-I'm Ross, a[n incoming] PhD Student at Stanford and recovering data scientist from the digital marketing industry. 
+I'm Ross, a PhD Student at Stanford and recovering data scientist from the digital marketing industry. 
 
-I apply data science and computational techniques to better understand the connections between our online lives and offline behaviors. 
+As a researchers in the Stanford Social Media Lab, I apply data science and computational techniques to better understand the connections between our online lives and offline behaviors. 
 
 🔭 I’m currently working on:
 - "[Identifying the Motivations of Political Donors with Social Media Data](https://github.com/rossdahlke/political_donor_motivations)"
 - "[Political Donor Polarization in Wisconsin](https://github.com/rossdahlke/donor_polarization)"
-- [Helping People Optimize Daily Fantasy Sports Lineups](https://github.com/rossdahlke/dfs_optimizer)
 
 🌱 Technically, I'm learning more about:
-- [The Math Behind Deep Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
-- [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
+- [CS 230: Deep Learning](https://cs230.stanford.edu/)
 
 📚 Substantively, I'm studying:
-- (Waiting for classes!)
+- The theory and history of communication
+- Communication research and pedagogy
 
 # ![Ross' github stats](https://github-readme-stats.vercel.app/api?username=rossdahlke&count_private=true)
