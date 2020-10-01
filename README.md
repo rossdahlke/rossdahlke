@@ -2,7 +2,7 @@
 
 I'm Ross, a PhD Student at Stanford and recovering data scientist from the digital marketing industry. 
 
-As a researchers in the Stanford Social Media Lab, I apply data science and computational techniques to better understand the connections between our online lives and offline behaviors. 
+As a researcher in the Stanford Social Media Lab, I apply data science and computational techniques to better understand the connections between our online lives and offline behaviors. 
 
 🔭 I’m currently working on:
 - "[Identifying the Motivations of Political Donors with Social Media Data](https://github.com/rossdahlke/political_donor_motivations)"
