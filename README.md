@@ -6,7 +6,7 @@ As a researcher in the Stanford Social Media Lab, I apply data science and compu
 
 🔭 I’m currently working on:
 - "[Identifying the Motivations of Political Donors with Social Media Data](https://github.com/rossdahlke/political_donor_motivations)"
-- "[Political Donor Polarization in Wisconsin](https://github.com/rossdahlke/donor_polarization)"
+- "[Political Donor Polarization: Observing Consumptive Behavior using a Network Approach](https://github.com/rossdahlke/donor_polarization)"
 
 🌱 Technically, I'm learning more about:
 - [CS 230: Deep Learning](https://cs230.stanford.edu/)
