@@ -11,8 +11,10 @@ As a researcher in the Stanford Social Media Lab, I apply data science and compu
 🌱 Technically, I'm learning more about:
 - [CS 230: Deep Learning](https://cs230.stanford.edu/)
 
-📚 Substantively, I'm studying:
-- The theory and history of communication
-- Communication research and pedagogy
+📚 Substantively, this quarter I'm studying:
+- Lies, Trust, and Technology
+- Censorship and Propoganda
+- Media Psychology
+- The Philosophy of Science
 
 # ![Ross' github stats](https://github-readme-stats.vercel.app/api?username=rossdahlke&count_private=true)
