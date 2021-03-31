@@ -9,12 +9,10 @@ As a researcher in the Stanford Social Media Lab, I apply data science and compu
 - "[Political Donor Polarization: Observing Consumptive Behavior using a Network Approach](https://github.com/rossdahlke/donor_polarization)"
 
 🌱 Technically, I'm learning more about:
-- [CS 230: Deep Learning](https://cs230.stanford.edu/)
+- [Computational Social Science](http://jenpan.com/teaching/)
+- Quantitative Social Science Research Methods
 
 📚 Substantively, this quarter I'm studying:
-- Truth, Trust, and Technology
-- Censorship and Propoganda
-- Media Psychology
-- The Philosophy of Science
+- Psychological Processing of Media
 
 # ![Ross' github stats](https://github-readme-stats.vercel.app/api?username=rossdahlke&count_private=true)
